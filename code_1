@@ -1,2 +1,4 @@
 print('Hello world!')
 print('Oleg is trying to push to GitHub')
+
+print('31.07 18:50... using old version')
